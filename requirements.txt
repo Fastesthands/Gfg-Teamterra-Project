@@ -1,4 +1,4 @@
-Python==3.11.0
+
 Flask==2.1.0
 dominate==2.7.1
 Flask-Bootstrap==3.4.1
